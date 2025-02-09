@@ -20,7 +20,7 @@
   "dependencies": {
     "@clubedaentrega/cipher": "^1.0.0",
     "aes-decrypter": "^3.1.2",
-    "axios": "^0.21.1",
+    "axios": "^1.7.9",
     "chai": "^4.3.4",
     "crypto-js": "^4.0.0",
     "js-base64": "^3.6.1",
